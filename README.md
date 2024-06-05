@@ -11,9 +11,9 @@
     University of Illinois Urbana-Champaign
     <br>
     </br>
-<!--         <a href="https://arxiv.org/abs/2405.14017">
-        <img src='https://img.shields.io/badge/arXiv-MagicPose4D-green' alt='Paper PDF'>
-        </a> -->
+        <a href="https://arxiv.org/abs/2406.01042">
+        <img src='https://img.shields.io/badge/arXiv-SC--4DGS-green' alt='Paper PDF'>
+        </a>
         
 <!--         <a href='https://boese0601.github.io/magicpose4d/'>
         <img src='https://img.shields.io/badge/Project_Page-MagicPose4D-blue' alt='Project Page'></a> -->
