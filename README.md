@@ -26,7 +26,7 @@
 * **[TODO]** Code for SC-4DGS is coming soon.
 * **[2024.6.4]** Paper released.
 
-  ## Citing
+## Citing
 If you find our work useful, please consider citing:
 ```BibTeX
 @article{li2024self,
