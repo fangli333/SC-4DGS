@@ -25,3 +25,14 @@
 ## News
 * **[TODO]** Code for SC-4DGS is coming soon.
 * **[2024.6.4]** Paper released.
+
+  ## Citing
+If you find our work useful, please consider citing:
+```BibTeX
+@article{li2024self,
+  title={Self-Calibrating 4D Novel View Synthesis from Monocular Videos Using Gaussian Splatting},
+  author={Li, Fang and Zhang, Hao and Ahuja, Narendra},
+  journal={arXiv preprint arXiv:2406.01042},
+  year={2024}
+}
+```
